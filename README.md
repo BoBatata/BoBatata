@@ -12,5 +12,4 @@
 </div>
 
 
-![Snake Animation](https://github.com/BoBatata/BoBatata/blob/output/github-contribution-grid-snake.gif)
-
+![Snake Animation](https://github.com/BoBatata/BoBatata/blob/output/github-snake-dark.gif)
