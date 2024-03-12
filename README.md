@@ -13,3 +13,4 @@
 
 
 ![Snake animation](https://github.com/BoBatata/BoBatata/blob/output/github-contribution-grid-snake.svg)
+
