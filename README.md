@@ -2,7 +2,7 @@
 
 ### Some information about me:
 
-- Game Developmennt student at Fiap.
+- Game Developer
 - Unity Programmer.
 - Currently using C# in Unity.
 - Looking to improve my game dev skills on other engines like Unreal.
